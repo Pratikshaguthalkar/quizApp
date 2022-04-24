@@ -1,0 +1,159 @@
+{
+    "questions": [
+        {
+            "questionText": "Q1: Who is sometimes called as father of Angularjs?",
+            "options": [{
+                "text": "Brad Green"
+            },
+            {
+                "text": "Misko Hevery",
+                "correct": true
+            },
+            {
+                "text": "Brad Richardson"
+            },
+            {
+                "text": "Chuck Jazdzewski"
+            }
+        ]
+        },
+        {
+            "questionText": "Q2: Which of the following is correct about TypeScript?",
+            "options": [{
+                "text": " Angular is based on TypeScript."
+            },
+            {
+                "text": "This is a superset of JavaScript."
+            },
+            {
+                "text": "TypeScript is maintained by Microsoft."
+            },
+            {
+                "text": "All of the above.",
+                "correct": true
+            }
+        ]
+        },
+        {
+            "questionText": "Q3:What is the decorator used for configuring your module class?",
+            "options": [{
+                "text": " @NgModule",
+                "correct": true
+            },
+            {
+                "text": "@NgApp"
+            },
+            {
+                "text": "Both"
+            },
+            {
+                "text": "None of above"
+            }
+        ]
+        },
+        {
+            "questionText": "Q4:  Which angular decorator allows us to define the pipe name that is globally available for use in any template in the across application?",
+            "options": [{
+                "text": "pipeName"
+            },
+            {
+                "text": "pipeDeco"
+            },
+            {
+                "text": "Pipe",
+                "correct": true
+            },
+            {
+                "text": "None of the above"
+            }
+        ]
+        },
+        {
+            "questionText": "Q5:  Which character is used for chaining multiple pipes?",
+            "options": [{
+                "text": " |",
+                "correct": true
+            },
+            {
+                "text": ":"
+            },
+            {
+                "text": "Both"
+            },
+            {
+                "text": "None of above"
+            }
+        ]
+        },
+        {
+            "questionText": "Q6: RxJS can be used for",
+            "options": [{
+                "text": "Browser"
+            },
+            {
+                "text": "Server Side"
+            },
+            {
+                "text": "Both",
+                "correct": true
+            },
+            {
+                "text": "None of above"
+            }
+        ]
+        },
+        {
+            "questionText": "Q7: How Observables are Used?",
+            "options": [{
+                "text": "The Reactive Forms Module uses reactive programming and Observables for listening to user input"
+            },
+            {
+                "text": "The @output() decorator in a component takes an EventEmitter instance. EventEmitter is a subclass of the RxJS Observable"
+            },
+            {
+                "text": "Both",
+                "correct": true
+            },
+            {
+                "text": "None of above"
+            }
+        ]
+        },
+        {
+            "questionText": "Q8: What is .subscribe?",
+            "options": [{
+                "text": "Streams data in asynchronously"
+            },
+            {
+                "text": "Streams data in synchronously"
+            },
+            {
+                "text": "Both",
+                "correct": true
+            },
+            {
+                "text": "None of above"
+            }
+        ]
+        },
+        {
+            "questionText": "Q9:  What does AOT stand for?",
+            "options": [{
+                "text": "ahead-of-time compilation",
+                "correct": true
+            },
+            {
+                "text": "Angular Object Templates"
+            },
+            {
+                "text": "Both"
+            },
+            {
+                "text": "None of above"
+            }
+        ]
+        }
+        
+
+    ]
+}
